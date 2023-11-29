@@ -19,7 +19,7 @@ public class Student {
     	S1.rollno=12;
 		S1.age=28;
     	System.out.println("Value of rollno"+S1.rollno);
-    	System.out.println("Value of age"+S1.age);
+    	System.out.println("changes done");
     	
     }
 }
